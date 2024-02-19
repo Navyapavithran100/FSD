@@ -97,5 +97,5 @@
 // var c=[...a,...b];
 // console.log(c);
 
-var [a,b,...t]=[1,3,45,5,9];
+var [a,b,..t]=[1,3,45,5,9];
 console.log(t);
